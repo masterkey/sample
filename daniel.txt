@@ -1,5 +1,5 @@
 This is a changed file. It's newer.
 
-<<<<<<< HEAD
+
 These are GP's changes
 This is Daniel's change.
