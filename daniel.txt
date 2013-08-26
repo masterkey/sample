@@ -1,4 +1,1 @@
-Test document
-
-GP edit 
-Daniel edit
+This is a changed file.
