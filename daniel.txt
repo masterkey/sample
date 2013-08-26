@@ -1,1 +1,3 @@
-This is a changed file. It's newer
+This is a changed file. It's newer.
+
+This is Daniel's change.
